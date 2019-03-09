@@ -1,5 +1,6 @@
-# Ignore bin folder
-**/bin
+# Ignore batch and shell files
+*.bat
+*.sh
 
 # Ignore all logs
-**/logs
+*.log
